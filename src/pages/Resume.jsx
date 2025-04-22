@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "../assets/Web_Developer_Resume__Rohit.pdf";
+import Resume from "../assets/Rohit__SDE_resume.pdf";
 
 const VJTIResume = () => {
   return (

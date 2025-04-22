@@ -9,7 +9,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Resume />} />
-          <Route path="/VJTI-resume" element={<VJTIResume />} />
+          <Route path="/vjti-resume" element={<VJTIResume />} />
         </Routes>
       </BrowserRouter>
     </>
